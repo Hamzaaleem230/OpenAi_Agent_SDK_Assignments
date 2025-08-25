@@ -1,0 +1,22 @@
+INFO:root:HANDOFF: Human handling 'hi'
+INFO:root:TOOL CALL: get_order_status(1881)
+INFO:root:GUARDRAIL: Rephrased 'your service is the worst!'
+INFO:root:HANDOFF: Human handling 'I want bulk price negotiation'
+INFO:root:HANDOFF: Human handling 'hi'
+INFO:root:HANDOFF: Human handling 'he'
+INFO:root:HANDOFF: Human handling 'ha'
+INFO:root:TOOL CALL: get_order_status(1880)
+INFO:root:HANDOFF: Human handling 'and'
+INFO:root:HANDOFF: Human handling 'useless'
+INFO:root:HANDOFF: Human handling 'bye'
+INFO:root:HANDOFF: Human handling 'Where is my order 1880?'
+INFO:root:HANDOFF: Human handling 'Where is my order 1882?'
+INFO:root:HANDOFF: Human handling 'Where is my order 1882?'
+INFO:root:HANDOFF: Human handling 'Where is my order 1882?'
+INFO:root:HANDOFF: Human handling 'Where is my order 1882?'
+INFO:root:TOOL CALL: get_order_status(1880)
+INFO:root:TOOL CALL: get_order_status(0990)
+INFO:root:HANDOFF: Human handling 'i want to cancel my order'
+INFO:root:GUARDRAIL: Rephrased 'you stupid'
+INFO:root:HANDOFF: Human handling 'Where is my order 1880?'
+INFO:root:HANDOFF: Human handling 'Where is my order 1880?'
